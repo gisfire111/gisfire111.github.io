@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mengzhen GUo / Personal Homepage"
+title                    : "Mengzhen Guo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Mengzhen Guo"
 description              : &description "A third year undergraduate student"
